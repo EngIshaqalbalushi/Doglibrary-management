@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Doglibrary management": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
